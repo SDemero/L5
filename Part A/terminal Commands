@@ -1,0 +1,27 @@
+samueldemero@Tsuki ~ % ls     
+Applications		Library			Public
+Creative Cloud Files	Movies			eclipse-workspace
+Desktop			Music			iCloud Drive (Archive)
+Documents		NetBeansProjects
+Downloads		Pictures
+samueldemero@Tsuki ~ % cd Desktop 
+samueldemero@Tsuki Desktop % ls
+CUNY INTERN.pdf		Sylabusses		song.csv
+NetBeansProjects	part 1.rtf
+samueldemero@Tsuki Desktop % cat song.csv
+"No Wind Resistance!",Kinneret
+"Mad at Disney",salem ilese
+"Put Your Records On",Ritt Momney
+"Edge of Great (feat. Madison Reyes)",Julie and the Phantoms Cast
+"Lemonade (feat. Gunna  Don Toliver & NAV)",Internet Money%  
+samueldemero@Tsuki Desktop % sort -t"," -k2 song.csv > new.csv
+samueldemero@Tsuki Desktop % ls
+CUNY INTERN.pdf		Sylabusses		part 1.rtf
+NetBeansProjects	new.csv			song.csv
+samueldemero@Tsuki Desktop % cat new.csv
+"Lemonade (feat. Gunna  Don Toliver & NAV)",Internet Money
+"Edge of Great (feat. Madison Reyes)",Julie and the Phantoms Cast
+"No Wind Resistance!",Kinneret
+"Put Your Records On",Ritt Momney
+"Mad at Disney",salem ilese
+samueldemero@Tsuki Desktop % 
