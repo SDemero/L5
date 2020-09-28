@@ -1,0 +1,32 @@
+samueldemero@Tsuki Desktop % nano test.sh
+samueldemero@Tsuki Desktop % ./test.sh
+zsh: permission denied: ./test.sh
+samueldemero@Tsuki Desktop % chmod +x test.sh
+samueldemero@Tsuki Desktop % ./test.sh       
+Hello world
+samueldemero@Tsuki Desktop % nano test.sh    
+samueldemero@Tsuki Desktop % ./test.sh   
+cat song.csv
+samueldemero@Tsuki Desktop % nano test.sh
+samueldemero@Tsuki Desktop % ./test.sh   
+"No Wind Resistance!",Kinneret
+"Mad at Disney",salem ilese
+"Put Your Records On",Ritt Momney
+"Edge of Great (feat. Madison Reyes)",Julie and the Phantoms Cast
+"Lemonade (feat. Gunna  Don Toliver & NAV)",Internet Money%                    
+samueldemero@Tsuki Desktop % nano test.sh
+samueldemero@Tsuki Desktop % ./test.sh   
+unordered list
+
+"No Wind Resistance!",Kinneret
+"Mad at Disney",salem ilese
+"Put Your Records On",Ritt Momney
+"Edge of Great (feat. Madison Reyes)",Julie and the Phantoms Cast
+"Lemonade (feat. Gunna  Don Toliver & NAV)",Internet Money
+Alphabitsed Artist name
+"Lemonade (feat. Gunna  Don Toliver & NAV)",Internet Money
+"Edge of Great (feat. Madison Reyes)",Julie and the Phantoms Cast
+"No Wind Resistance!",Kinneret
+"Put Your Records On",Ritt Momney
+"Mad at Disney",salem ilese
+samueldemero@Tsuki Desktop % 
