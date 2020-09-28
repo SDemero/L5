@@ -1,0 +1,28 @@
+[sdemero@sol28 ~]$ cd Desktop
+[sdemero@sol28 Desktop]$ nano songs.csv
+[sdemero@sol28 Desktop]$ nano Lab5.java
+[sdemero@sol28 Desktop]$ javac Lab5.java
+[sdemero@sol28 Desktop]$ java Lab5
+Error: Could not find or load main class Lab5
+[sdemero@sol28 Desktop]$ java -jar "lab5.jar" 
+Unordered CSV
+"No Wind Resistance!" by Kinneret
+"Mad at Disney" by salem ilese
+"Put Your Records On" by Ritt Momney
+"Edge of Great (feat. Madison Reyes)" by Julie and the Phantoms Cast
+"Lemonade (feat. Gunna  Don Toliver & NAV)" by Internet Money
+
+Unordered list of Artist
+Kinneret
+salem ilese
+Ritt Momney
+Julie and the Phantoms Cast
+Internet Money
+
+Alphabitsed list of Artist
+Internet Money
+Julie and the Phantoms Cast
+Kinneret
+Ritt Momney
+salem ilese
+[sdemero@sol28 Desktop]$ 
